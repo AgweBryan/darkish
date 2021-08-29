@@ -1,0 +1,25 @@
+{
+	"name": "darkish",
+	"displayName": "Darkish",
+	"description": "Cool dark theme for flutter developers",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"author": {
+		"name": "Agwe Bryan",
+		"email": "agwedinobryan@gmail.com"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darkish",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Darkish-color-theme.json"
+			}
+		]
+	}
+}
