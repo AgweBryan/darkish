@@ -6,9 +6,13 @@
 	"engines": {
 		"vscode": "^1.59.0"
 	},
+	"icon": "icons/favicon.png",
 	"author": {
 		"name": "Agwe Bryan",
 		"email": "agwedinobryan@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/AgweBryan/darkish"
 	},
 	"categories": [
 		"Themes"
