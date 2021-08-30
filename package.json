@@ -8,6 +8,13 @@
 		"vscode": "^1.59.0"
 	},
 	"icon": "icons/favicon.png",
+	"keywords": [
+		"Dark",
+		"Agwe",
+		"Black",
+		"Flutter",
+		"Theme"
+	],
 	"author": {
 		"name": "Agwe Bryan",
 		"email": "agwedinobryan@gmail.com"
