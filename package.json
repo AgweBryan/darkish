@@ -3,6 +3,7 @@
 	"displayName": "Darkish",
 	"description": "Cool dark theme for flutter developers",
 	"version": "0.0.1",
+	"publisher": "Darkish",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
